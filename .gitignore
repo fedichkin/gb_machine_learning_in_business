@@ -1,5 +1,3 @@
 .idea
-/HW2/articles.csv
-/HW2/users_articles.csv
-/HW2/users_churn.csv
+*.csv
 /HW2/stopwords.txt
